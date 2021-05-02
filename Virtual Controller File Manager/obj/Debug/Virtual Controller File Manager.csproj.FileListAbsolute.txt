@@ -16,3 +16,6 @@ C:\Users\ncamp\Desktop\Controler Manager\Virtual Controller File Manager\Virtual
 C:\Users\ncamp\Desktop\Controler Manager\Virtual Controller File Manager\Virtual Controller File Manager\obj\Debug\App.baml
 C:\Users\ncamp\Desktop\Controler Manager\Virtual Controller File Manager\Virtual Controller File Manager\obj\Debug\Page1.g.cs
 C:\Users\ncamp\Desktop\Controler Manager\Virtual Controller File Manager\Virtual Controller File Manager\obj\Debug\Page1.baml
+C:\Users\ncamp\Desktop\Controler Manager\Virtual-Controller-File-Manager\Virtual Controller File Manager\obj\Debug\Virtual Controller File Manager.csprojAssemblyReference.cache
+C:\Users\ncamp\Desktop\Controler Manager\Virtual-Controller-File-Manager\Virtual Controller File Manager\obj\Debug\Virtual Controller File Manager.exe
+C:\Users\ncamp\Desktop\Controler Manager\Virtual-Controller-File-Manager\Virtual Controller File Manager\obj\Debug\Virtual Controller File Manager.pdb
