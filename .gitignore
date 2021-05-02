@@ -1,2 +1,17 @@
-
-.vs/Virtual Controller File Manager/v16/.suo
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+/Debug
+packages
+Virtual Controller File Manager/obj/Debug/Virtual Controller File Manager.csproj.FileListAbsolute.txt
+Virtual Controller File Manager/obj/Debug/Virtual Controller File Manager.csproj.FileListAbsolute.txt
+Virtual Controller File Manager/obj/Debug/Virtual Controller File Manager.csproj.CoreCompileInputs.cache
+Virtual Controller File Manager/obj/Debug/Virtual Controller File Manager.pdb
+Virtual Controller File Manager/obj/Debug/Virtual Controller File Manager.g.resources
+Virtual Controller File Manager/obj/Debug/Virtual Controller File Manager.exe
+Virtual Controller File Manager/obj/Debug/Virtual Controller File Manager.csproj.CoreCompileInputs.cache
+Virtual Controller File Manager/obj/Debug/Virtual Controller File Manager.csproj.FileListAbsolute.txt
+Virtual Controller File Manager/bin/Debug/Virtual Controller File Manager.pdb
+Virtual Controller File Manager/bin/Debug/Virtual Controller File Manager.exe
