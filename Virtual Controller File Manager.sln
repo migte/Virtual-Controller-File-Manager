@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Controller File Manager", "Virtual Controller File Manager\Virtual Controller File Manager.csproj", "{F005C833-30BA-4577-BF38-F4F5E5B9ECCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F005C833-30BA-4577-BF38-F4F5E5B9ECCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F005C833-30BA-4577-BF38-F4F5E5B9ECCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F005C833-30BA-4577-BF38-F4F5E5B9ECCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F005C833-30BA-4577-BF38-F4F5E5B9ECCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521932FC-54E3-4366-8AD7-B38BED5E9606}
+	EndGlobalSection
+EndGlobal
